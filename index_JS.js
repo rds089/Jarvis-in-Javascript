@@ -1,4 +1,4 @@
-const API_KEY="";
+const API_KEY="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";
 
 const speechRecognition=window.webkitSpeechRecognition //Google Chrome 
 ||
